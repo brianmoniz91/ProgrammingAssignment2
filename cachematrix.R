@@ -41,4 +41,3 @@ cacheSolve <- function(x, ...) {
  		 z
 }
 
-                 
